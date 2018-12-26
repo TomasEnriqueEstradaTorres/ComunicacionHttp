@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ComunicacionHttp</string>
+
+    <string name="vacio">""</string>
+    <string name="urlAdescargar">"Ingresar Direccion Web"</string>
+    <string name="descarga">Descargar</string>
+    <string name="urlAbuscar">Descargar Contenido HTML</string>
+
 </resources>
