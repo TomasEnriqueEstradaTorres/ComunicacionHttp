@@ -2,8 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.yeialel.comunicacionhttp">
 
-    <!--Este permiso es para poder acceder a internet-->
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- Esto sirve para dar permiso de uso de acceso a internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Permisos para acceder al estado de la conexión -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
